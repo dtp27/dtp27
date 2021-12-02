@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dtp27
+- 👋 Hi, I'm Dan
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning the fundamentals of computer science (via CS50x)
 - 💞️ I’m looking to collaborate on ...
