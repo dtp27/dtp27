@@ -1,4 +1,4 @@
-- 🤘 Hi, I'm Dan
+- 🤘 Hey, I'm Dan
 - 🔥 I’m interested in web development
 - 🎓 I’m currently learning the fundamentals of web development
 - 🤝 looking to get more experience by collaborating on any open source web projects that people could use a hand on
