@@ -3,7 +3,7 @@
 - 🎓 I’m currently learning the fundamentals of web development, starting with front-end with the eventually goal of learn a full stack in order to build out different ideas I have
 - 🤝 I'm looking to get more experience by collaborating on any open source web projects that people could use a hand on
 - 📫 Feel free to reach out! 
-  - Email: dantpage27@gmail.com
+  - dantpage27@gmail.com
   - [Frontend Mentor](https://www.frontendmentor.io/profile/dtp27)
 
 <!---
