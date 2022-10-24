@@ -1,8 +1,8 @@
 # 🚀 Hey, I'm Dan!
 
 A little bit about me:
-- 🔥 I’m very interested in web development
-- 🎓 I’m currently learning the fundamentals of web development, starting with front-end with the eventually goal of learn a full stack in order to build out different ideas I have
+- 🔥 I’m very interested in Web Development and Data Engineering
+- 🎓 I’m currently learning the fundamentals of web development in order to explore the field
 - 🤝 I'm looking to get more experience by collaborating on any open source web projects that people could use a hand on
 - 🤘 In my free time, I love to play bass guitar and hang out with family
 - 📫 Feel free to reach out! 
