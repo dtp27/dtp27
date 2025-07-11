@@ -1,8 +1,8 @@
 # 🚀 Hey, I'm Dan!
 
 A little bit about me:
-- 🔥 I’m very interested in Software, Analytics and Data Engineering
-- 🎓 I’m currently learning the fundamentals of software development in order to explore the field
+- 🔥 I’m very interested in creating inspiring and helpful software applications
+- 🎓 I’m currently learning the fundamentals of software development in order to gain the skills to do so
 - 🤝 I'm looking to get more experience by collaborating on any open source web projects that people could use a hand on
 - 🤘 In my free time, I love to play bass guitar and hang out with family
 - 📫 Feel free to reach out! 
